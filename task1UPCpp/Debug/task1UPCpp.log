@@ -1,0 +1,4 @@
+﻿  task1UPCpp.cpp
+C:\Users\alina\Desktop\HSE\ПРАКТИКА\ЗАДАЧИ\ЗАДАЧА 1\task1UPCpp\task1UPCpp\task1UPCpp.cpp(9): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\alina\Desktop\HSE\ПРАКТИКА\ЗАДАЧИ\ЗАДАЧА 1\task1UPCpp\task1UPCpp\task1UPCpp.cpp(23): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  E:\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): note:  см. объявление "scanf"
